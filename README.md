@@ -33,3 +33,9 @@ Both webpack files are extended from a common webpack build so it is easy to add
 4. Clean webpack
 5. Uglify
 6. Webpack merge
+
+# How to use
+
+1. Clone this repo
+2. In the root folder "npm install"
+3. "npm run start:dev" or "npm run start:prod" :)
